@@ -1,0 +1,62 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.phone{
+	width:320px; 
+	height:600px;
+	border:2px #000 solid;
+	margin:30px auto;
+	/*圆角：圆角所在圆的半径值*/
+	border-radius: 30px;
+	background-image:url(http://www.qqoi.cn/img_bizhi/30547856.jpeg);
+	background-size:320px 600px;
+}
+.top{
+	width:250px;
+	height:30px;
+	margin:20px 50px;
+}
+.screen{
+	width:300px;
+	height:450px;
+	background: #000;
+	margin:0 auto;
+	background-image: url(http://cdn.duitang.com/uploads/item/201508/31/20150831105047_vhrLV.thumb.700_0.png);
+	background-size:300px 450px;
+}
+.home{
+	width:80px;
+	height:40px;
+	border:2px solid #000;
+	border-radius:40px;
+	margin:20px auto 0; 
+}
+.box{
+	width:70px;
+	height:7px;
+	border:1px solid #000;
+	border-radius:13px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 55px;
+}
+.circle1{
+	width: 8px;
+	height: 8px;
+	background: yellow;
+	border-radius: 50%;
+	float: left;
+	margin-top: 11px;
+	margin-left: 70px;
+}
+.circle2{
+	width: 12px;
+	height: 12px;
+	background: blue;
+	border-radius: 50%;
+	float: left;
+	margin-top: 9px;
+	margin-left: 5px;
+}
